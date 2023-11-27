@@ -1,0 +1,56 @@
+You are the manager for a chain of cinemas. You are asked to review the data for 3 cinemas for the past 3 months.
+
+Company: Light Speed
+
+Data: Total number of ticket sales | Number of sales | Revenue for the concession stand (Soda, Popcorn, and Candy).
+
+Goal: Comparing the revenue of the concession stand between the three cinemas highlighting which of the three cinemas has the most successful concession stand, and how it compares to others.
+
+TO DO: Find which is the best performing concession stand. Understand which of the concession stand is the most successful.
+
+Some assumptions:
+
+1. What is a successful concession stand? The one that sold the most product
+2. How does selling the most product in a concession stand fit into business objectives? One of the main revenues sources for the cinema is concession stands so maximize on the concession sales for each ticket sold.
+3. Objective of this data presentation? Identify which cinema was the best, and what factors made it the best (it could be concession stand sales due to pricing or just the sales number or tickets sold).
+
+
+*********************************************** Data Analysis ***********************************************
+
+
+*** Trend Analysis ***
+
+--------------------------------------------------------------------------------------------------------------
+
+Tickets Sold:
+
+Cinema 1 - Steady Linear Rise (~ Steady 7% increase each month) in Ticket Sales from Feb to Apr.
+
+Cinema 2 - Between Feb and Mar Small plummet (~5% decline from the original) but Mar to Apr huge rise (~9% increase from the original).
+
+Cinema 3 - ~7% Decline from Feb to Mar then ~3% Decline from Mar to Apr.
+
+--------------------------------------------------------------------------------------------------------------
+
+Concession Stand Prices:
+
+Popcorn - Cinema 1 > Cinema 2 > Cinema 3
+Soda    - Cinema 2 > Cinema 3 > Cinema 1
+Candy   - Cinema 2 > Cinema 1 > Cinema 3
+
+Ranking Cinema based on Concession Prices:
+
+Cinema 2 is the highest priced in concession
+Cinema 3 is the lowest priced in concession
+Cinema 1 is the second highest priced in concession
+
+Ranking the cinema concessions based on price:
+
+Popcorn > Soda > Candy
+
+Popcorn is the most expensive concession.
+Soda is the second most expensive concession.
+Candy is the third most expensive concession.
+
+--------------------------------------------------------------------------------------------------------------
+
