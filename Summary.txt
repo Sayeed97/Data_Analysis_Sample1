@@ -24,7 +24,7 @@ Some assumptions:
 
 Tickets Sold:
 
-Cinema 1 - Steady Linear Rise (~ Steady 7% increase each month) in Ticket Sales from Feb to Apr.
+Cinema 1 - Steady Linear Rise (~ Steady 7% increase each month) in Ticket Sales from Feb to Apr. ~14% overall increase.
 Starting Sales - 27034
 
 Cinema 2 - Between Feb and Mar Small plummet (~5% decline from the original) but Mar to Apr huge rise (~9% increase from the original).
@@ -70,7 +70,7 @@ Starting Sales Number - 18342
 Cinema 2 - ~10% decrease in sales from Feb to Mar then ~5% increase from original between Mar to Apr.
 Starting Sales Number - 19981
 
-Cinema 3 - ~0.5% increase in sales from Feb to Mar then back to the original price between Mar to Apr.
+Cinema 3 - ~0.5% increase in sales from Feb to Mar then back to the original price between Mar to Apr. ~0% Overall change.
 Starting Sales Number - 25099
 
 Soda Concession Sales:
@@ -78,7 +78,7 @@ Soda Concession Sales:
 Cinema 1 - ~3% decrease in sales from Feb to Mar then ~12% decrease in sales from the original between Mar to Apr.
 Starting Sales Number - 17340
 
-Cinema 2 - ~2% steady decrease in sales from Feb to Mar then Mar to Apr.
+Cinema 2 - ~2% steady decrease in sales from Feb to Mar then Mar to Apr. ~4% Overall decrease.
 Starting Sales Number - 17330
 
 Cinema 3 - ~5% decrease in sales from Feb to Mar then 3% decrease from the original between Mar to Apr.
@@ -95,4 +95,4 @@ Starting Sales Number - 5668
 Cinema 3 - ~5% increase in sales from Feb to Mar then ~5% increase in sales to reach the same original price between Mar to Apr.
 Starting Sales Number - 8409
 
-TODO: Find the starting price and perform analysis.
+TODO: Complete the total analysis of the percentage changes.
